@@ -1,0 +1,30 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Futuristic MYRA Dark Palette (Deep Cosmic Obsidian + Glowing Cyan & Violet)
+val MyraVoidBlack = Color(0xFF050814)
+val MyraDeepSpace = Color(0xFF0A1024)
+val MyraGlassSurface = Color(0xFF101935)
+val MyraElevatedSurface = Color(0xFF162247)
+val MyraCyanPrimary = Color(0xFF38BDF8)
+val MyraCyanBright = Color(0xFF00E5FF)
+val MyraVioletSecondary = Color(0xFF8B5CF6)
+val MyraVioletGlow = Color(0xFFA855F7)
+val MyraTealTertiary = Color(0xFF2DD4BF)
+val MyraTextPrimaryDark = Color(0xFFF1F5F9)
+val MyraTextSecondaryDark = Color(0xFF94A3B8)
+val MyraOutlineDark = Color(0xFF233566)
+val MyraErrorDark = Color(0xFFF87171)
+
+// Futuristic MYRA Light Palette (Crisp Arctic Glass + Electric Blue & Indigo)
+val MyraLightBackground = Color(0xFFF3F6FC)
+val MyraLightSurface = Color(0xFFFFFFFF)
+val MyraLightSurfaceVariant = Color(0xFFE6EEFA)
+val MyraBluePrimaryLight = Color(0xFF0284C7)
+val MyraVioletSecondaryLight = Color(0xFF7C3AED)
+val MyraTealTertiaryLight = Color(0xFF0D9488)
+val MyraTextPrimaryLight = Color(0xFF0F172A)
+val MyraTextSecondaryLight = Color(0xFF475569)
+val MyraOutlineLight = Color(0xFFCBD5E1)
+val MyraErrorLight = Color(0xFFDC2626)
