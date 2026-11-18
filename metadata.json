@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis",
+  "description": "Jarvis — an intelligent personal AI assistant in Urdu & English with voice interaction, instant phone app launcher, website creator, design studio, and local privacy-first storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
